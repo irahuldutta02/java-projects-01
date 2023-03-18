@@ -18,3 +18,6 @@
 ## [Currency Converter](./currency-converter/)
 - `java swing` application
 
+## [Atm Interface](./atm-interface/)
+- console app using `java`
+
