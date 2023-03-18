@@ -12,3 +12,9 @@
 ## [Timer and Stopwatch](./timer-and-stopwatch/)
 - `java swing` application
 
+## [Tic Tac Toe Game](./tic-tac-toe/)
+- `java swing` application
+
+## [Currency Converter](./currency-converter/)
+- `java swing` application
+
