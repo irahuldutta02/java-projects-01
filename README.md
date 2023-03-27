@@ -1,23 +1,23 @@
 # java-projects
 
-## [Guess The Number](./guess-the-number/)
+### [Temperature Converter](./temperature-converter)
 - console app using `java`
 
-## [Temperature Converter](./temperature-converter)
-- console app using `java`
-
-## [Basic Student Management](./basic-student-managment/)
+### [Basic Student Management](./basic-student-managment/)
 - console app using `java JDBC` and `MySql`
 
-## [Timer and Stopwatch](./timer-and-stopwatch/)
+### [Timer and Stopwatch](./timer-and-stopwatch/)
 - `java swing` application
 
-## [Tic Tac Toe Game](./tic-tac-toe/)
+### [Tic Tac Toe Game](./tic-tac-toe/)
 - `java swing` application
 
-## [Currency Converter](./currency-converter/)
+### [Currency Converter](./currency-converter/)
 - `java swing` application
 
-## [Atm Interface](./atm-interface/)
+### [Atm Interface](./atm-interface/)
+- console app using `java`
+
+### [Basic Hospital Management System](./basic-hospital-management-system-01/)
 - console app using `java`
 
