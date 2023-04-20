@@ -1,8 +1,7 @@
 # basic-student-managemnet
 
+- console app using `java JDBC` and `MySql`
 - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/java-projects-01/tree/main/basic-student-managment)
-
-## This console application is buit using java jdbc with my sql as database.
 
 ### Output :
 ```
